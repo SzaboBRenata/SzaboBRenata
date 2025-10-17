@@ -6,7 +6,7 @@ Célom, hogy átlátható, megbízható és inspiráló adatprojekteket készít
 ### 💼 Érdeklődési területeim:
 - 📊 Adattisztítás és elemzés (Python, R)
 - 🧠 Gépi tanulás alapjai
-- 🧾 Vizualizáció (Matplotlib, Power BI)
+- 🧾 Vizualizáció (Plotly Express, Power BI)
 - 📈 Adatalapú döntéshozatal
 
 ### 🌐 Elérhetőség

@@ -10,5 +10,5 @@ Célom, hogy átlátható, megbízható és inspiráló adatprojekteket készít
 - 📈 Adatalapú döntéshozatal
 
 ### 🌐 Elérhetőség
-- 📧 Email: [@gmail.com]
-- 💼 LinkedIn: [link]
+- 📧 Email: [szaszamano5@gmail.com]
+

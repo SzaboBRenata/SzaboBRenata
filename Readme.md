@@ -1,14 +1,15 @@
-# 👋 Helló, én Renáta vagyok!
+# 👋 Hi there! My name is Renata!
 
-Adatelemzéssel és adatvizualizációval foglalkozom, Pythonban és R-ben tanulok.
-Célom, hogy átlátható, megbízható és inspiráló adatprojekteket készítsek.
+I'm a computer science graduate from the University of Szeged with a strong interest in Python and Data Science!
+I’m focused on data analysis and data visualization, currently learning Python and R.
+My goal is to create clear, reliable, and insightful data projects that tell meaningful stories.
 
-### 💼 Érdeklődési területeim:
-- 📊 Adattisztítás és elemzés (Python, R)
-- 🧠 Gépi tanulás alapjai
-- 🧾 Vizualizáció (Plotly Express, Power BI)
-- 📈 Adatalapú döntéshozatal
+### 💼 Areas of Interest:
+- 📊 Data cleaning & analysis (Python, R)
+- 🧠 Fundamentals of machine learning
+- 🧾 Data visualization (Plotly Express, Power BI)
+- 📈 Data-driven decision making
 
-### 🌐 Elérhetőség
+### 🌐 Contact
 - 📧 Email: [szaszamano5@gmail.com]
 

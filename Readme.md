@@ -7,8 +7,8 @@ My goal is to create clear, reliable, and insightful data projects that tell mea
 ### 💼 Areas of Interest:
 - 📊 Data cleaning & analysis (Python, R)
 - 🧠 Fundamentals of machine learning
-- 🧾 Data visualization (Plotly Express, Power BI)
-- 📈 Data-driven decision making
+- 📈 Data visualization (Plotly Express, Power BI)
+- 🧾 Data-driven decision making
 
 ### 🌐 Contact
 - 📧 Email: [szaszamano5@gmail.com]

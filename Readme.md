@@ -11,5 +11,5 @@ My goal is to create clear, reliable, and insightful data projects that tell mea
 - 🧾 Data-driven decision making
 
 ### 🌐 Contact
-- 📧 Email: [szaszamano5@gmail.com]
+- 📧 Email: [szabo.battancs.renata@gmail.com]
 
